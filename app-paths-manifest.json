@@ -1,0 +1,7 @@
+{
+  "/dashboard/page": "app/dashboard/page.js",
+  "/stock-analysis/page": "app/stock-analysis/page.js",
+  "/trading-execution/page": "app/trading-execution/page.js",
+  "/portfolio-management/page": "app/portfolio-management/page.js",
+  "/login/page": "app/login/page.js"
+}
